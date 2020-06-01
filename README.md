@@ -1,4 +1,4 @@
-# student-dashboard
+# Student-dashboard
 A student dashboard built with React, Mobx and Parcel as bundler
 
 # Launch
